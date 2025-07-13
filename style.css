@@ -1,1 +1,18 @@
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: 'Georgia';
+  background: lightsteelblue;
+  color: black;
+  text-align: center;
+}
 
+p {
+  font-size: medium;
+  padding: 10px;
+  color: darkslategray;
+}
+
+#feedbackForm {
+    font-style: italic;
+}
